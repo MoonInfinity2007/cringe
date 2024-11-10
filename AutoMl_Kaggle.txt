@@ -14,3 +14,9 @@ https://www.kaggle.com/code/heyytanay/training-pix2struct-pytorch-amp-w-b
 https://www.kaggle.com/code/rushilprajapati/classification-models-all-predicting-divorce
 Пример задачи
 https://www.kaggle.com/competitions/new-york-city-taxi-fare-prediction/code?competitionId=10170&sortBy=voteCount&excludeNonAccessedDatasources=true
+https://www.kaggle.com/code/salazarslytherin/intro-to-ml-full-kaggle-mini-course
+https://www.kaggle.com/code/pelcharskyi/ml-homework
+https://www.kaggle.com/code/deepdivelm/nyc-taxi-fares-eda-modelling-2-93
+https://www.kaggle.com/code/kinsiangchia/new-york-taxi-fares-lgb
+https://www.kaggle.com/code/nikatsereteli/eda-cleaning-feature-engineering-xgboost
+https://github.com/Spanchb0tik
