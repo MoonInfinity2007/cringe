@@ -9,3 +9,6 @@ Geospatic Analysis
 https://www.kaggle.com/code/alexisbcook/coordinate-reference-systems#Setting-the-CRS
 https://www.kaggle.com/code/gidutz/starter-autotel-shared-car-locations
 https://www.kaggle.com/code/breemen/nyc-taxi-fare-data-exploration#Generate-Kaggle-baseline-model-and-submission
+MultiModal -
+https://www.kaggle.com/code/heyytanay/training-pix2struct-pytorch-amp-w-b
+https://www.kaggle.com/code/rushilprajapati/classification-models-all-predicting-divorce
