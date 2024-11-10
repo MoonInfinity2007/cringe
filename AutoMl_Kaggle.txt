@@ -12,3 +12,5 @@ https://www.kaggle.com/code/breemen/nyc-taxi-fare-data-exploration#Generate-Kagg
 MultiModal -
 https://www.kaggle.com/code/heyytanay/training-pix2struct-pytorch-amp-w-b
 https://www.kaggle.com/code/rushilprajapati/classification-models-all-predicting-divorce
+Пример задачи
+https://www.kaggle.com/competitions/new-york-city-taxi-fare-prediction/code?competitionId=10170&sortBy=voteCount&excludeNonAccessedDatasources=true
