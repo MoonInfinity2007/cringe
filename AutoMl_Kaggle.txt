@@ -19,4 +19,7 @@ https://www.kaggle.com/code/pelcharskyi/ml-homework
 https://www.kaggle.com/code/deepdivelm/nyc-taxi-fares-eda-modelling-2-93
 https://www.kaggle.com/code/kinsiangchia/new-york-taxi-fares-lgb
 https://www.kaggle.com/code/nikatsereteli/eda-cleaning-feature-engineering-xgboost
+---
 https://github.com/Spanchb0tik
+https://github.com/dark516
+https://github.com/wodocanal
